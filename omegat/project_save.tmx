@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do you have no idea what to talk about?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190207T111630Z" creationid="Sheila" creationdate="20190207T111630Z">
+        <seg>Com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finding a Topic for a WordPress Talk</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190121T173929Z" creationid="Sheila" creationdate="20190121T173929Z">
