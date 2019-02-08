@@ -32,8 +32,8 @@
       <tuv lang="EN">
         <seg>Description #Description</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Sheila" changedate="20190121T174231Z" creationid="Sheila" creationdate="20190121T174231Z">
-        <seg>Descrição #Descrição</seg>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190208T125148Z" creationid="Sheila" creationdate="20190121T174231Z">
+        <seg>Descrizione #Descrizione</seg>
       </tuv>
     </tu>
     <tu>
@@ -64,16 +64,13 @@
       <tuv lang="EN">
         <seg>Imposter Syndrome</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20190121T174117Z" creationid="Sheila" creationdate="20190121T174117Z">
-        <seg>Síndrome do impostor</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Lessons in this module include:</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20190121T173912Z" creationid="Sheila" creationdate="20190121T173912Z">
-        <seg>As lições neste módulo incluem:</seg>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190208T125053Z">
+        <seg>Le lezioni in questo modulo includono:</seg>
       </tuv>
     </tu>
     <tu>
