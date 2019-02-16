@@ -48,8 +48,16 @@
       <tuv lang="EN">
         <seg>Do you have no idea what to talk about?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="simona" changedate="20190216T164553Z" creationid="Sheila" creationdate="20190207T111630Z">
-        <seg>Non nessuna idea su cosa dire?</seg>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T164738Z" creationid="Sheila" creationdate="20190207T111630Z">
+        <seg>Non hai nessuna idea su cosa dire?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>During this hands-on session, we’ll look at what has stopped you from speaking in the past — and explore how to move past your fears.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T164817Z" creationid="simona" creationdate="20190216T164817Z">
+        <seg>Durante questa sessione pratica, vedremo cosa ti ha impedito di parlare in passato - e scoprirai come superare le tue paure.</seg>
       </tuv>
     </tu>
     <tu>
@@ -98,6 +106,15 @@ Sindrome dell'impostoree</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="simona" changedate="20190208T125053Z">
         <seg>Le lezioni in questo modulo includono:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We will discuss some common myths about public speaking, different talk formats, and we will focus on finding your areas of expertise (yes, you have areas of expertise!).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T164857Z" creationid="simona" creationdate="20190216T164857Z">
+        <seg>
+Discuteremo alcuni miti comuni sul parlare in pubblico, diversi formati di talk e ci concentreremo sulla ricerca delle aree di competenza (sì, hai delle aree di competenza!).</seg>
       </tuv>
     </tu>
     <tu>
