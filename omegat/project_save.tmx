@@ -135,6 +135,14 @@ Sindrome dell'impostoree</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This workshop is for you if:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T165236Z" creationid="simona" creationdate="20190216T165236Z">
+        <seg>Questo workshop è per te se:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We will brainstorm topics you can talk about at a WordCamp or other event.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="simona" changedate="20190216T165019Z" creationid="simona" creationdate="20190216T165019Z">
