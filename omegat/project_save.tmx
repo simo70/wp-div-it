@@ -142,9 +142,8 @@ Riconoscere le basi di una buona struttura.</seg>
       <tuv lang="EN">
         <seg>Identify many of the fears that have stopped you from public speaking.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="simona" changedate="20190216T171323Z" creationid="simona" creationdate="20190216T171323Z">
-        <seg>
-Riconoscerai molte delle paure che ti hanno impedito di parlare in pubblico.</seg>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T171408Z" creationid="simona" creationdate="20190216T171323Z">
+        <seg>Riconoscerai molte delle paure che ti hanno impedito di parlare in pubblico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -289,6 +288,14 @@ Discuteremo alcuni miti comuni sul parlare in pubblico, diversi formati di talk 
       </tuv>
       <tuv lang="IT-IT" changeid="simona" changedate="20190216T164425Z" creationid="Sheila" creationdate="20190121T174306Z">
         <seg>[Se lo stai presentando a un gruppo specifico, ad esempio le persone che si identificano come donne, le sezioni facoltative da aggiungere sono indicate tra [parentesi]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[State why we need more diversity in our public speakers.]</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T171543Z" creationid="simona" creationdate="20190216T171543Z">
+        <seg>Spiegare perché abbiamo bisogno di più diversità nei nostri oratori pubblici.]</seg>
       </tuv>
     </tu>
     <tu>
