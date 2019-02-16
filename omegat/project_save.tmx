@@ -148,6 +148,14 @@ Riconoscere le basi di una buona struttura.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are interested in speaking at an event,  please sign up to let us know.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T173536Z" creationid="simona" creationdate="20190216T173536Z">
+        <seg>Se sei interessato a parlare a un evento, registrati per farcelo sapere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Imposter Syndrome</seg>
       </tuv>
     </tu>
@@ -226,6 +234,14 @@ Esercitarsi a parlare in pubblico di fronte a un piccolo gruppo contribuisce a c
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Thank you for attending today.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T173437Z" creationid="simona" creationdate="20190216T173437Z">
+        <seg>Grazie per aver partecipato oggi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The venue has [elevators, ramps, etc.], [single stall washrooms for non-binary genders], [etc.].</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="simona" changedate="20190216T170805Z" creationid="simona" creationdate="20190216T170805Z">
@@ -254,6 +270,24 @@ Esercitarsi a parlare in pubblico di fronte a un piccolo gruppo contribuisce a c
       </tuv>
       <tuv lang="IT-IT" changeid="simona" changedate="20190216T165236Z" creationid="simona" creationdate="20190216T165236Z">
         <seg>Questo workshop è per te se:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Top ↑
+Sign Up #Sign Up</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T173416Z" creationid="simona" creationdate="20190216T173416Z">
+        <seg>Top ↑
+Iscriviti #Iscrizioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We will be passing a sign up sheet (or you will receive an email).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T173511Z" creationid="simona" creationdate="20190216T173511Z">
+        <seg>Passeremo un foglio di iscrizione (o riceverai un'email).</seg>
       </tuv>
     </tu>
     <tu>
