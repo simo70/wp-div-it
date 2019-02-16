@@ -54,6 +54,24 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finding a Topic for a WordPress Talk
+Writing the Pitch for your WordPress Talk
+Creating Your WordPress Talk
+Creating Great Slides
+Becoming a Better Speaker
+Imposter Syndrome</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T164037Z" creationid="simona" creationdate="20190216T164037Z">
+        <seg>Finding a Topic for a WordPress Talk
+Writing the Pitch for your WordPress Talk
+Creating Your WordPress Talk
+Creare ottime slide
+Diventare uno speaker migliore
+Sindrome dell'impostoree</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finding a Topic for a WordPress Talk [and Diversity Speaker Outreach]</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Sheila" changedate="20190121T174221Z" creationid="Sheila" creationdate="20190121T174221Z">
@@ -101,8 +119,9 @@
       <tuv lang="EN">
         <seg>﻿Speaker Training [and Diversity Speaker Outreach]</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Sheila" changedate="20190121T173906Z" creationid="Sheila" creationdate="20190121T173906Z">
-        <seg>Formação de palestrantes [e promoção de diversidade entre palestrantes]</seg>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T163953Z" creationid="Sheila" creationdate="20190121T173906Z">
+        <seg>
+Formazione di oratori [e promozione della diversità tra i relatori]</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
