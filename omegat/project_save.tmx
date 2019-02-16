@@ -148,10 +148,26 @@ Riconoscere le basi di una buona struttura.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a movie of your life was made, which actor would you want to play you?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T174036Z" creationid="simona" creationdate="20190216T174036Z">
+        <seg>Se facessero un film della tua vita, quale attore vorresti a interpretarti?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are interested in speaking at an event,  please sign up to let us know.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="simona" changedate="20190216T173536Z" creationid="simona" creationdate="20190216T173536Z">
         <seg>Se sei interessato a parlare a un evento, registrati per farcelo sapere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you could have dinner with any person, living or dead, who would it be?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T174052Z" creationid="simona" creationdate="20190216T174052Z">
+        <seg>Se potessi cenare con una persona, viva o morta, con chi vorresti trovarti??</seg>
       </tuv>
     </tu>
     <tu>
@@ -313,6 +329,54 @@ Iscriviti #Iscrizioni</seg>
       <tuv lang="IT-IT" changeid="simona" changedate="20190216T164857Z" creationid="simona" creationdate="20190216T164857Z">
         <seg>
 Discuteremo alcuni miti comuni sul parlare in pubblico, diversi formati di talk e ci concentreremo sulla ricerca delle aree di competenza (sì, hai delle aree di competenza!).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What country would you most like to travel to?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T174006Z" creationid="simona" creationdate="20190216T174006Z">
+        <seg>Quale paese sogni di visitare?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What got you into WordPress?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T173958Z" creationid="simona" creationdate="20190216T173958Z">
+        <seg>Come sei approdato a WordPress?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What is one fun thing you did this week?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T174140Z" creationid="simona" creationdate="20190216T174140Z">
+        <seg>Cosa hai fatto di divertente questa settimana??</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What is the most life altering experience you’ve had in the last five years?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T174120Z" creationid="simona" creationdate="20190216T174120Z">
+        <seg>Qual è l’esperienza che ha cambiato la tua vita negli ultimi cinque anni??</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What is your favorite way to waste time at work, without getting caught?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T174107Z" creationid="simona" creationdate="20190216T174107Z">
+        <seg>Quale è il tuo modo di sprecare tempo al lavoro, senza essere colto sul fatto?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What you want out of the workshop</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T173942Z" creationid="simona" creationdate="20190216T173942Z">
+        <seg>Cosa vuoi ottenere dalla partecipazione a questo workshop oggi?</seg>
       </tuv>
     </tu>
     <tu>
