@@ -38,10 +38,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do you feel like you don’t have anything worth sharing?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T164621Z" creationid="simona" creationdate="20190216T164621Z">
+        <seg>Ti senti come se non avessi nulla che valga la pena condividere?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do you have no idea what to talk about?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Sheila" changedate="20190207T111630Z" creationid="Sheila" creationdate="20190207T111630Z">
-        <seg>Com</seg>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T164553Z" creationid="Sheila" creationdate="20190207T111630Z">
+        <seg>Non nessuna idea su cosa dire?</seg>
       </tuv>
     </tu>
     <tu>
@@ -104,8 +112,9 @@ Sindrome dell'impostoree</seg>
       <tuv lang="EN">
         <seg>[Are you a person who identifies as a &lt;specific group&gt;?] Have you considered presenting at a WordCamp but thought you didn’t know enough or felt like an imposter?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Sheila" changedate="20190121T174358Z" creationid="Sheila" creationdate="20190121T174358Z">
-        <seg>[Você é uma pessoa que se identifica como um &lt;grupo específico&gt;?] Você já pensou em se apresentar em um WordCamp mas achou que não sabia o suficiente ou se sentia como um(a) impostor(a)?</seg>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T164518Z" creationid="Sheila" creationdate="20190121T174358Z">
+        <seg>
+[Sei una persona che si identifica come &lt;gruppo specifico&gt;?] Hai mai pensato di presentarti a un WordCamp ma hai pensato di non sapere abbastanza o di sentirti un impostore??</seg>
       </tuv>
     </tu>
     <tu>
