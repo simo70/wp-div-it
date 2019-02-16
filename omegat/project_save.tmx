@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>***You do NOT have to have any experience in public speaking.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T165159Z" creationid="simona" creationdate="20190216T165159Z">
+        <seg>***NON devi avere alcuna esperienza nel parlare in pubblico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Becoming a Better Speaker</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Sheila" changedate="20190121T174102Z" creationid="Sheila" creationdate="20190121T174102Z">
@@ -62,6 +70,15 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each participant will come out of the workshop with a WordCamp or meetup talk idea — and more confidence to submit it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T165135Z" creationid="simona" creationdate="20190216T165135Z">
+        <seg>
+Ogni partecipante uscirà dal workshop con un'idea da presentare a con un WordCamp o a un meetup e più sicurezza a proporsi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finding a Topic for a WordPress Talk</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Sheila" changedate="20190121T173929Z" creationid="Sheila" creationdate="20190121T173929Z">
@@ -106,6 +123,22 @@ Sindrome dell'impostoree</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="simona" changedate="20190208T125053Z">
         <seg>Le lezioni in questo modulo includono:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This workshop is for all levels of experience.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T165221Z" creationid="simona" creationdate="20190216T165221Z">
+        <seg>Questo workshop è adatto a tutti i livelli di esperienza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We will brainstorm topics you can talk about at a WordCamp or other event.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T165019Z" creationid="simona" creationdate="20190216T165019Z">
+        <seg>Faremo brainstorming su argomenti di cui puoi parlare in un WordCamp o in un altro evento.</seg>
       </tuv>
     </tu>
     <tu>
