@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Apply what you have learned to your own outline.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T171108Z" creationid="simona" creationdate="20190216T171108Z">
+        <seg>Applica ciò che hai imparato al tuo schema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Becoming a Better Speaker</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Sheila" changedate="20190121T174102Z" creationid="Sheila" creationdate="20190121T174102Z">
@@ -132,6 +140,15 @@ Riconoscere le basi di una buona struttura.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Identify many of the fears that have stopped you from public speaking.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T171323Z" creationid="simona" creationdate="20190216T171323Z">
+        <seg>
+Riconoscerai molte delle paure che ti hanno impedito di parlare in pubblico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Imposter Syndrome</seg>
       </tuv>
     </tu>
@@ -169,10 +186,27 @@ Riconoscere le basi di una buona struttura.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Practice public speaking in front of a small group to help build confidence.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T171238Z" creationid="simona" creationdate="20190216T171238Z">
+        <seg>
+Esercitarsi a parlare in pubblico di fronte a un piccolo gruppo contribuisce a costruire la fiducia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Prerequisite Skills #Prerequisite Skills</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="simona" changedate="20190216T170932Z" creationid="simona" creationdate="20190216T170932Z">
         <seg>Prerequisiti #Prerequisitis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recall the different types of talk formats.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T171146Z" creationid="simona" creationdate="20190216T171146Z">
+        <seg>Ricorda i diversi tipi di formati di talk.</seg>
       </tuv>
     </tu>
     <tu>
