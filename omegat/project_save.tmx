@@ -127,6 +127,14 @@ Sindrome dell'impostoree</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This workshop is NOT for you if:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T165700Z" creationid="simona" creationdate="20190216T165700Z">
+        <seg>Questo workshop NON  è per te se:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This workshop is for all levels of experience.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="simona" changedate="20190216T165221Z" creationid="simona" creationdate="20190216T165221Z">
@@ -160,6 +168,14 @@ Discuteremo alcuni miti comuni sul parlare in pubblico, diversi formati di talk 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Why speak at WordPress events?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T165823Z" creationid="simona" creationdate="20190216T165823Z">
+        <seg>Perchè parlarea un evento WordPress?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Writing the Pitch for your WordPress Talk</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Sheila" changedate="20190121T174011Z" creationid="Sheila" creationdate="20190121T174011Z">
@@ -181,6 +197,29 @@ Discuteremo alcuni miti comuni sul parlare in pubblico, diversi formati di talk 
       </tuv>
       <tuv lang="IT-IT" changeid="simona" changedate="20190216T164425Z" creationid="Sheila" creationdate="20190121T174306Z">
         <seg>[Se lo stai presentando a un gruppo specifico, ad esempio le persone che si identificano come donne, le sezioni facoltative da aggiungere sono indicate tra [parentesi]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[You identify as &lt;not specific group&gt;]
+[You don’t think it matters that there are very few &lt;specific group&gt; speakers at WordPress events]</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T165803Z" creationid="simona" creationdate="20190216T165803Z">
+        <seg>
+[Identificati come &lt;gruppo non specifico&gt;]
+[Non pensi sia importante che ci siano pochissimi oratori &lt;specifici del gruppo&gt; negli eventi di WordPress]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[You identify as &lt;specific group&gt;]
+You’ve thought about speaking at Meetup or WordCamp but haven’t been able to think of a topic
+You think you don’t know anything worth speaking about</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T165622Z" creationid="simona" creationdate="20190216T165622Z">
+        <seg>[Identificati come &lt;gruppo specifico&gt;]
+Hai pensato di parlare a Meetup o WordCamp ma non sei stato in grado di pensare a un argomento
+Pensi di non avere nulla di cui parlare</seg>
       </tuv>
     </tu>
     <tu>
