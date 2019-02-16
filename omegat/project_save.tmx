@@ -250,6 +250,14 @@ Esercitarsi a parlare in pubblico di fronte a un piccolo gruppo contribuisce a c
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is not a commitment, but we will get in touch with you to discuss the possibility of speaking at an upcoming meetup or WordCamp.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T173654Z" creationid="simona" creationdate="20190216T173654Z">
+        <seg>Questo non è un impegno, ma ci metteremo in contatto con te per discutere la possibilità di parlare a un prossimo incontro o a un WordCamp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This workshop is NOT for you if:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="simona" changedate="20190216T165700Z" creationid="simona" creationdate="20190216T165700Z">
@@ -333,6 +341,20 @@ Un foglio presenze, appunti, penna</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Sheila" changedate="20190121T174011Z" creationid="Sheila" creationdate="20190121T174011Z">
         <seg>Como criar o conteúdo da sua palestra sobre o WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your name
+Your preferred pronoun
+Your WordPress experience
+What is your speaking experience, if any?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T173813Z" creationid="simona" creationdate="20190216T173813Z">
+        <seg>Il tuo nome
+Il tuo pronome (lei, lui, loro)
+La tua esperienza con WordPress
+Hai esperienza di public speaking?</seg>
       </tuv>
     </tu>
     <tu>
