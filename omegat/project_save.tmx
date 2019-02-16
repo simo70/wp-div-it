@@ -163,8 +163,8 @@ Riconoscere le basi di una buona struttura.</seg>
       <tuv lang="EN">
         <seg>Many people are allergic to them.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="simona" changedate="20190216T170857Z" creationid="simona" creationdate="20190216T170857Z">
-        <seg>ManMolte persone sono allergiche.</seg>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T172553Z" creationid="simona" creationdate="20190216T170857Z">
+        <seg>Molte persone sono allergiche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -179,8 +179,8 @@ Riconoscere le basi di una buona struttura.</seg>
       <tuv lang="EN">
         <seg>Please do not wear scents.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="simona" changedate="20190216T170833Z" creationid="simona" creationdate="20190216T170833Z">
-        <seg>Per favore non usare profumo.</seg>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T172546Z" creationid="simona" creationdate="20190216T170833Z">
+        <seg>Per favore non usate profumo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -196,8 +196,8 @@ Esercitarsi a parlare in pubblico di fronte a un piccolo gruppo contribuisce a c
       <tuv lang="EN">
         <seg>Prerequisite Skills #Prerequisite Skills</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="simona" changedate="20190216T170932Z" creationid="simona" creationdate="20190216T170932Z">
-        <seg>Prerequisiti #Prerequisitis</seg>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T172602Z" creationid="simona" creationdate="20190216T170932Z">
+        <seg>Prerequisiti #Prerequisiti</seg>
       </tuv>
     </tu>
     <tu>
@@ -206,6 +206,22 @@ Esercitarsi a parlare in pubblico di fronte a un piccolo gruppo contribuisce a c
       </tuv>
       <tuv lang="IT-IT" changeid="simona" changedate="20190216T171146Z" creationid="simona" creationdate="20190216T171146Z">
         <seg>Ricorda i diversi tipi di formati di talk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Screening Questions #Screening Questions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T172705Z" creationid="simona" creationdate="20190216T172705Z">
+        <seg>Domande di selezione #domande di selezione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Teacher Notes #Teacher Notes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T172749Z" creationid="simona" creationdate="20190216T172749Z">
+        <seg>Note per l'insegnante #Note per l'insegnante</seg>
       </tuv>
     </tu>
     <tu>
@@ -271,10 +287,10 @@ Discuteremo alcuni miti comuni sul parlare in pubblico, diversi formati di talk 
 A large device that can show a countdown timer for the timed speaking presentations, such as an iPad
 Sign up sheet, clipboard, pen</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="simona" changedate="20190216T171846Z" creationid="simona" creationdate="20190216T171846Z">
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T172643Z" creationid="simona" creationdate="20190216T171846Z">
         <seg>Strumenti di lavoro
 Un dispositivo di grandi dimensioni in grado di mostrare un timer per il conto alla rovescia per le presentazioni a tempo, ad esempio un iPad
-Un foglio pre, appunti, penna</seg>
+Un foglio presenze, appunti, penna</seg>
       </tuv>
     </tu>
     <tu>
@@ -292,6 +308,14 @@ Un foglio pre, appunti, penna</seg>
       <tuv lang="IT-IT" changeid="simona" changedate="20190216T164518Z" creationid="Sheila" creationdate="20190121T174358Z">
         <seg>
 [Sei una persona che si identifica come &lt;gruppo specifico&gt;?] Hai mai pensato di presentarti a un WordCamp ma hai pensato di non sapere abbastanza o di sentirti un impostore??</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[Do you identify as &lt;specific group&gt;?]</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190216T172729Z" creationid="simona" creationdate="20190216T172729Z">
+        <seg>[Ti identifichi come &lt;gruppo specifico&gt;?]</seg>
       </tuv>
     </tu>
     <tu>
