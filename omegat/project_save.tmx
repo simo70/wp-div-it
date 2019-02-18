@@ -196,10 +196,26 @@ Riconoscere le basi di una buona struttura.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Introductions [Short Version] #Introductions [Short Version]</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190218T135030Z" creationid="simona" creationdate="20190218T135030Z">
+        <seg>Introduzione [Versione breve] #Introduzione [Versione breve]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Lessons in this module include:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="simona" changedate="20190208T125053Z">
         <seg>Le lezioni in questo modulo includono:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Let’s all introduce ourselves.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190218T134830Z" creationid="simona" creationdate="20190218T134830Z">
+        <seg>Presentiamoci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -400,6 +416,14 @@ Discuteremo alcuni miti comuni sul parlare in pubblico, diversi formati di talk 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>What We Are Looking For #What We Are Looking For</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190218T134944Z" creationid="simona" creationdate="20190218T134944Z">
+        <seg>Cosa stiamo cercando #Cosa stiamo cercandor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>What country would you most like to travel to?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="simona" changedate="20190216T174006Z" creationid="simona" creationdate="20190216T174006Z">
@@ -472,6 +496,14 @@ Un foglio presenze, appunti, penna</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Sheila" changedate="20190121T174011Z" creationid="Sheila" creationdate="20190121T174011Z">
         <seg>Como criar o conteúdo da sua palestra sobre o WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have 3 minutes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190218T134913Z" creationid="simona" creationdate="20190218T134913Z">
+        <seg>Hai tre minuti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -563,9 +595,9 @@ Pensi di non avere nulla di cui parlare</seg>
       <tuv lang="EN">
         <seg>﻿Speaker Training [and Diversity Speaker Outreach]</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="simona" changedate="20190216T163953Z" creationid="Sheila" creationdate="20190121T173906Z">
+      <tuv lang="IT-IT" changeid="simona" changedate="20190218T134819Z" creationid="Sheila" creationdate="20190121T173906Z">
         <seg>
-Formazione di oratori [e promozione della diversità tra i relatori]</seg>
+Formazione per i docenti [e promozione della diversità tra i relatori]</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
