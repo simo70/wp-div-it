@@ -14,6 +14,15 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Instructor may need to vary the time based on workshop attendance and time available) Ask your neighbor to answer one of these questions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190218T141120Z" creationid="simona" creationdate="20190218T141120Z">
+        <seg>
+(L'istruttore può aver bisogno di variare il tempo in base al numero die partecipanti e al tempo disponibile) Chiedi al tuo vicino di rispondere a una di queste domande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>***You do NOT have to have any experience in public speaking.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="simona" changedate="20190216T165159Z" creationid="simona" creationdate="20190216T165159Z">
@@ -445,6 +454,15 @@ Presentare l'argomento
       </tuv>
       <tuv lang="IT-IT" changeid="simona" changedate="20190216T170805Z" creationid="simona" creationdate="20190216T170805Z">
         <seg>La sede ha [ascensori, rampe, ecc.], [Bagni singoli per i generi diversi], [ecc.].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then we will go around the room and each person will have 1 minute to introduce their neighbor with their answer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190218T141202Z" creationid="simona" creationdate="20190218T141202Z">
+        <seg>
+Poi andremo faremo un giro di tavolo e ogni persona avrà 1 minuto per presentare il suo vicino con la sua risposta.</seg>
       </tuv>
     </tu>
     <tu>
