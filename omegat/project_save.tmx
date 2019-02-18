@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An iPad would work.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190218T140203Z" creationid="simona" creationdate="20190218T140203Z">
+        <seg>Un iPad può andar bene.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Apply what you have learned to your own outline.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="simona" changedate="20190216T171108Z" creationid="simona" creationdate="20190216T171108Z">
@@ -110,6 +118,14 @@ Ogni partecipante uscirà dal workshop con un'idea da presentare a con un WordCa
       </tuv>
       <tuv lang="IT-IT" changeid="simona" changedate="20190218T140041Z" creationid="simona" creationdate="20190218T140041Z">
         <seg>Sottolineate che questo non è un impegno, è un accordo per avere ulteriori discussioni a riguardo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Facilitators say a few words about themselves.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190218T140337Z" creationid="simona" creationdate="20190218T140337Z">
+        <seg>I facilitatori dicono qualcosa su se stessi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -204,18 +220,26 @@ Riconoscere le basi di una buona struttura.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Introduce Facilitator(s) #Introduce Facilitator(s)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190218T140303Z" creationid="simona" creationdate="20190218T140303Z">
+        <seg>Presentare i facilitatori #Presentare i facilitatori </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Introductions
 [Why are we holding a workshop for]
 What We Are Looking For
 Dispelling The Myths of Speakers
 Why Do You Want To Speak?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="simona" changedate="20190218T135218Z" creationid="simona" creationdate="20190218T135218Z">
+      <tuv lang="IT-IT" changeid="simona" changedate="20190218T140444Z" creationid="simona" creationdate="20190218T135218Z">
         <seg>Introduzione
-[Why are we holding a workshop for]
-What We Are Looking For
-Dispelling The Myths of Speakers
-Why Do You Want To Speak?</seg>
+[Perchè facciamo questo workshop]
+Che cosa stiamo cercando
+Sfatiamo i falsi miti
+Perchè vorresti parlare?</seg>
       </tuv>
     </tu>
     <tu>
