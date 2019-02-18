@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>(Choose the short or long version of introductions, depending on how much time you have.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190218T140703Z" creationid="simona" creationdate="20190218T140703Z">
+        <seg>(Scegli la versione corta o lunga delle introduzioni, a seconda di quanto tempo hai.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>***You do NOT have to have any experience in public speaking.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="simona" changedate="20190216T165159Z" creationid="simona" creationdate="20190216T165159Z">
@@ -161,6 +169,15 @@ Sindrome dell'impostoree</seg>
       <tuv lang="IT-IT" changeid="simona" changedate="20190216T164417Z" creationid="Sheila" creationdate="20190121T174221Z">
         <seg>Come scegliere un argomento per un talk su WordPress [e promuovere la diversità tra i relatori]
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Going around the circle, each person say:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190218T140743Z" creationid="simona" creationdate="20190218T140743Z">
+        <seg>
+Girando attorno al cerchio, ogni persona dirà:</seg>
       </tuv>
     </tu>
     <tu>
@@ -379,6 +396,23 @@ Esercitarsi a parlare in pubblico di fronte a un piccolo gruppo contribuisce a c
       </tuv>
       <tuv lang="IT-IT" changeid="simona" changedate="20190216T172705Z" creationid="simona" creationdate="20190216T172705Z">
         <seg>Domande di selezione #domande di selezione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Talk Formats
+Big BrainDump
+Narrowing Your Topic Selection
+Refining Your Chosen Topic
+Present Your Topic</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190218T140713Z" creationid="simona" creationdate="20190218T140646Z">
+        <seg>Formati dei talk
+Big BrainDump
+restringere la selezione degli argomenti
+Affinare l'aromento scelto
+Presentare l'argomento
+</seg>
       </tuv>
     </tu>
     <tu>
