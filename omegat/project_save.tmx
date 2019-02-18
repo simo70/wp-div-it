@@ -261,6 +261,14 @@ Perchè vorresti parlare?</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Introductions [Long Version — Interview Neighbor ice breaker game] #Introductions [Long Version — Interview Neighbor ice breaker game]</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190218T140919Z" creationid="simona" creationdate="20190218T140919Z">
+        <seg>Introduzioni [Versione lunga - Intervista il vicino - Icebreaker game] #Introduzioni [Versione lunga - Intervista il vicino - Icebreaker game]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Introductions [Short Version] #Introductions [Short Version]</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="simona" changedate="20190218T135030Z" creationid="simona" creationdate="20190218T135030Z">
@@ -605,10 +613,10 @@ Your preferred pronoun
 Your WordPress experience
 What is your speaking experience, if any?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="simona" changedate="20190216T173813Z" creationid="simona" creationdate="20190216T173813Z">
-        <seg>Il tuo nome
+      <tuv lang="IT-IT" changeid="simona" changedate="20190218T140806Z" creationid="simona" creationdate="20190216T173813Z">
+        <seg>Il proprio nome
 Il tuo pronome (lei, lui, loro)
-La tua esperienza con WordPress
+La propria esperienza con WordPress
 Hai esperienza di public speaking?</seg>
       </tuv>
     </tu>
