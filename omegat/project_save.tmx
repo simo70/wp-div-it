@@ -376,6 +376,16 @@ It is useful to have a large device that can show a countdown timer for the time
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Offer childcare if you can.]
+[If you’re doing this for diversity purposes, have a person from that specific group lead the talk.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190220T194006Z" creationid="simona" creationdate="20190220T194006Z">
+        <seg>Offrite assistenza per i bambini, se possibile.]
+[If you’re doing this for diversity purposes, have a person from that specific group lead the talk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please do not wear scents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="simona" changedate="20190216T172546Z" creationid="simona" creationdate="20190216T170833Z">
@@ -423,10 +433,10 @@ Narrowing Your Topic Selection
 Refining Your Chosen Topic
 Present Your Topic</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="simona" changedate="20190218T140713Z" creationid="simona" creationdate="20190218T140646Z">
+      <tuv lang="IT-IT" changeid="simona" changedate="20190220T194054Z" creationid="simona" creationdate="20190218T140646Z">
         <seg>Formati dei talk
 Big BrainDump
-restringere la selezione degli argomenti
+Restringere la selezione degli argomenti
 Affinare l'aromento scelto
 Presentare l'argomento
 </seg>
@@ -446,6 +456,14 @@ Presentare l'argomento
       </tuv>
       <tuv lang="IT-IT" changeid="simona" changedate="20190216T173437Z" creationid="simona" creationdate="20190216T173437Z">
         <seg>Grazie per aver partecipato oggi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The agenda that we are going to cover today is:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190220T194039Z" creationid="simona" creationdate="20190220T194039Z">
+        <seg>L'agenda della giornata odierna sarà:</seg>
       </tuv>
     </tu>
     <tu>
@@ -677,6 +695,14 @@ Hai esperienza di public speaking?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="simona" changedate="20190216T172729Z" creationid="simona" creationdate="20190216T172729Z">
         <seg>[Ti identifichi come &lt;gruppo specifico&gt;?]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[If holding the group for women: Don’t hold it at 9pm at night.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190220T193934Z" creationid="simona" creationdate="20190220T193934Z">
+        <seg>[se il gruppo è per donne non fatelo dopo le 9 di sera. </seg>
       </tuv>
     </tu>
     <tu>
