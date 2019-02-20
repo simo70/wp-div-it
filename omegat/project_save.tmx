@@ -464,10 +464,34 @@ It is useful to have a large device that can show a countdown timer for the time
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pick 2 subjects in the topic list that are your favorite.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190220T195117Z" creationid="simona" creationdate="20190220T195117Z">
+        <seg>Scegli le tue 2 idee preferite dalla lista degli argomenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pick 2 topics that you are confident about and could lead a how-to presentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="simona" changedate="20190220T195043Z" creationid="simona" creationdate="20190220T195043Z">
         <seg>Scegli 2 argomenti sui quali ti senti preparat* e che potrebbero diventare una presentazione how-to.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pick 2 topics that you think you could teach to others in a hands-on manner.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190220T195131Z" creationid="simona" creationdate="20190220T195131Z">
+        <seg>Scegli 2 argomenti sui quali hai esperienza diretta e puoi far esercitare altri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pick 2 topics that you’ve successfully worked on that you feel you could do a case study about.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190220T195059Z" creationid="simona" creationdate="20190220T195059Z">
+        <seg>Scegli 2 argomenti che parlino di progetti che hai concluso con successo e che potrebbero diventare un case study.</seg>
       </tuv>
     </tu>
     <tu>
