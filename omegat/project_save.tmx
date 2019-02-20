@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>#Why Do You Want To Speak?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190220T194510Z" creationid="simona" creationdate="20190220T194510Z">
+        <seg>#Perché vuoi parlare in pubblico??</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Choose the short or long version of introductions, depending on how much time you have.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="simona" changedate="20190218T140703Z" creationid="simona" creationdate="20190218T140703Z">
@@ -47,6 +55,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A question for you: Why do you want to speak?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190220T194559Z" creationid="simona" creationdate="20190220T194559Z">
+        <seg>Una domanda: perché vuoi parlare in pubblico??</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Accessibility</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="simona" changedate="20190216T170706Z" creationid="simona" creationdate="20190216T170706Z">
@@ -78,6 +94,28 @@ After, encourage them via a sign-up sheet or follow up email to give their conta
         <seg>
 Alla fine, quando presenteranno i loro argomenti / pitches / idee, cambiate la disposizione destanza in formato di presentazione (posti in fila rivolti in avanti verso l'oratore)
 Successivamente, incoraggiateli tramite un foglio di iscrizione o una e-mail di follow-up per avere le informazioni di contatto e per accettare di chattare ulteriormente su come parlare a un evento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Be seen as an authority in your field
+Share your knowledge with others
+Build your confidence – it scares me
+Give back to the community
+Meet people – be part of the community
+Travel
+Learn at conferences – speaking teaches you more
+It’s fun!</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190220T194719Z" creationid="simona" creationdate="20190220T194719Z">
+        <seg>Per essere  vist* come un’autorità in materia
+Per condividere le mie conoscenze con gli altri
+Build your confidence – it scares me
+Per aiutare la community
+Meet people – be part of the community
+Viaggiare
+Learn at conferences – speaking teaches you more
+E' divertente</seg>
       </tuv>
     </tu>
     <tu>
@@ -261,6 +299,14 @@ Riconoscere le basi di una buona struttura.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="simona" changedate="20190216T174052Z" creationid="simona" creationdate="20190216T174052Z">
         <seg>Se potessi cenare con una persona, viva o morta, con chi vorresti trovarti??</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you’ve only talked once, why did you not do it again?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190220T194458Z" creationid="simona" creationdate="20190220T194458Z">
+        <seg>Se hai parlato solo una volta, cosa ti ha impedito di farlo di nuovo??</seg>
       </tuv>
     </tu>
     <tu>
@@ -668,6 +714,22 @@ Discuteremo alcuni miti comuni sul parlare in pubblico, diversi formati di talk 
       </tuv>
       <tuv lang="IT-IT" changeid="simona" changedate="20190216T173942Z" creationid="simona" creationdate="20190216T173942Z">
         <seg>Cosa vuoi ottenere dalla partecipazione a questo workshop oggi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Why Do You Want To Speak?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190220T194503Z" creationid="simona" creationdate="20190220T194503Z">
+        <seg>Perché vuoi parlare in pubblico??</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Why haven’t you talked at a meetup or WordCamp?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190220T194443Z" creationid="simona" creationdate="20190220T194443Z">
+        <seg>Perché non hai mai parlato al Meetup o a un WordCamp??</seg>
       </tuv>
     </tu>
     <tu>
