@@ -31,6 +31,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;Specific group&gt; have experiences that aren’t necessarily being shared right now.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190220T194430Z" creationid="simona" creationdate="20190220T194430Z">
+        <seg>&lt;gruppo specifico&gt; have experiences that aren’t necessarily being shared right now.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;Specific group&gt; may, therefore feel like they don’t belong there.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190220T194310Z" creationid="simona" creationdate="20190220T194310Z">
+        <seg>&lt;Gruppo specifico&gt; may, therefore feel like they don’t belong there.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Accessibility</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="simona" changedate="20190216T170706Z" creationid="simona" creationdate="20190216T170706Z">
@@ -70,6 +86,14 @@ Successivamente, incoraggiateli tramite un foglio di iscrizione o una e-mail di 
       </tuv>
       <tuv lang="IT-IT" changeid="Sheila" changedate="20190121T174102Z" creationid="Sheila" creationdate="20190121T174102Z">
         <seg>Como se tornar um orador melhor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But there are many &lt;specific group&gt; with a wide range of knowledge to share and everyone can feel included.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190220T194323Z" creationid="simona" creationdate="20190220T194323Z">
+        <seg>But there are many &lt;gruppo specifico&gt; with a wide range of knowledge to share and everyone can feel included.</seg>
       </tuv>
     </tu>
     <tu>
@@ -184,9 +208,9 @@ Sindrome dell'impostoree</seg>
       <tuv lang="EN">
         <seg>Going around the circle, each person say:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="simona" changedate="20190218T140743Z" creationid="simona" creationdate="20190218T140743Z">
+      <tuv lang="IT-IT" changeid="simona" changedate="20190220T194141Z" creationid="simona" creationdate="20190218T140743Z">
         <seg>
-Girando attorno al cerchio, ogni persona dirà:</seg>
+Facendo la presentazioni in cerchio, ogni persona dirà:</seg>
       </tuv>
     </tu>
     <tu>
@@ -308,6 +332,14 @@ It is useful to have a large device that can show a countdown timer for the time
       <tuv lang="IT-IT" changeid="simona" changedate="20190218T140121Z" creationid="simona" creationdate="20190218T140121Z">
         <seg>Assicurati che la sede sia accessibile (rampe, ascensori, ecc.)
 È utile disporre di un dispositivo di grandi dimensioni in grado di mostrare un timer per il conto alla rovescia per le presentazioni a tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Many &lt;specific group&gt;, by nature of having had different life experiences, would approach problems differently.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190220T194330Z" creationid="simona" creationdate="20190220T194330Z">
+        <seg>Many &lt;gruppo specifico&gt;, by nature of having had different life experiences, would approach problems differently.</seg>
       </tuv>
     </tu>
     <tu>
@@ -489,6 +521,14 @@ Presentare l'argomento
       <tuv lang="IT-IT" changeid="simona" changedate="20190218T141202Z" creationid="simona" creationdate="20190218T141202Z">
         <seg>
 Poi andremo faremo un giro di tavolo e ogni persona avrà 1 minuto per presentare il suo vicino con la sua risposta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are a few reasons that we want to hold this workshop for &lt;specific group&gt; today:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190220T194211Z" creationid="simona" creationdate="20190220T194211Z">
+        <seg>Ci sono alcuni motivi per cui oggi vogliamo tenere questo workshop per &lt;gruppo specifico&gt;:</seg>
       </tuv>
     </tu>
     <tu>
