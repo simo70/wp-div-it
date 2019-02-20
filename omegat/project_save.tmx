@@ -477,8 +477,8 @@ Poi andremo faremo un giro di tavolo e ogni persona avrà 1 minuto per presentar
       <tuv lang="EN">
         <seg>There are sections that repeat in each which only need to be covered once.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="simona" changedate="20190220T193208Z" creationid="simona" creationdate="20190220T193208Z">
-        <seg>Ci sono sezioni ripetute in ogni volta che basta siano svolte una  sola volta.</seg>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190220T193740Z" creationid="simona" creationdate="20190220T193208Z">
+        <seg>Ci sono sezioni ripetute in ogni modulo. Basta siano svolte una sola volta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -487,6 +487,14 @@ Poi andremo faremo un giro di tavolo e ogni persona avrà 1 minuto per presentar
       </tuv>
       <tuv lang="IT-IT" changeid="simona" changedate="20190216T173654Z" creationid="simona" creationdate="20190216T173654Z">
         <seg>Questo non è un impegno, ma ci metteremo in contatto con te per discutere la possibilità di parlare a un prossimo incontro o a un WordCamp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This lesson plan can be run alone or together with several other Speaker lesson plans.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190220T193703Z" creationid="simona" creationdate="20190220T193703Z">
+        <seg>Questa lezione può essere tenuta da sola o con altre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -608,8 +616,8 @@ Discuteremo alcuni miti comuni sul parlare in pubblico, diversi formati di talk 
       <tuv lang="EN">
         <seg>Why speak at WordPress events?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="simona" changedate="20190216T165823Z" creationid="simona" creationdate="20190216T165823Z">
-        <seg>Perchè parlarea un evento WordPress?</seg>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190220T193607Z" creationid="simona" creationdate="20190216T165823Z">
+        <seg>Perchè parlare a un evento WordPress?</seg>
       </tuv>
     </tu>
     <tu>
