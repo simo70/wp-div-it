@@ -464,6 +464,22 @@ It is useful to have a large device that can show a countdown timer for the time
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pick 2 topics that you are confident about and could lead a how-to presentation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190220T195043Z" creationid="simona" creationdate="20190220T195043Z">
+        <seg>Scegli 2 argomenti sui quali ti senti preparat* e che potrebbero diventare una presentazione how-to.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pick 2 topics you may not know much about but that you would have good questions for.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190220T194949Z" creationid="simona" creationdate="20190220T194949Z">
+        <seg>Scegli 2 argomenti di cui non sai molto ma hai diverse domande da fare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please do not wear scents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="simona" changedate="20190216T172546Z" creationid="simona" creationdate="20190216T170833Z">
@@ -518,6 +534,14 @@ Restringere la selezione degli argomenti
 Affinare l'aromento scelto
 Presentare l'argomento
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Talk Formats #Talk Formats</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190220T194854Z" creationid="simona" creationdate="20190220T194854Z">
+        <seg>Tipi di talk #Tipi di talk</seg>
       </tuv>
     </tu>
     <tu>
@@ -583,6 +607,22 @@ Poi andremo faremo un giro di tavolo e ogni persona avrà 1 minuto per presentar
       </tuv>
       <tuv lang="IT-IT" changeid="simona" changedate="20190220T193740Z" creationid="simona" creationdate="20190220T193208Z">
         <seg>Ci sono sezioni ripetute in ogni modulo. Basta siano svolte una sola volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This could be a story-based talk.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190220T194939Z" creationid="simona" creationdate="20190220T194939Z">
+        <seg>Questo potrebbe essere un talk basato su una storia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This could be for moderating a panel.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190220T195023Z" creationid="simona" creationdate="20190220T195023Z">
+        <seg>Queste sono idee per moderare un panel.</seg>
       </tuv>
     </tu>
     <tu>
