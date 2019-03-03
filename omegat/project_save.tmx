@@ -31,6 +31,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Instructor might want to hold up a tablet with a count-down timer)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190303T155640Z" creationid="simona" creationdate="20190303T155640Z">
+        <seg>(Il relatore puó avere un tablet con il contro alla rovescia)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>***You do NOT have to have any experience in public speaking.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="simona" changedate="20190216T165159Z" creationid="simona" creationdate="20190216T165159Z">
@@ -342,8 +350,8 @@ Perchè vorresti parlare?</seg>
       <tuv lang="EN">
         <seg>Introductions [Long Version — Interview Neighbor ice breaker game] #Introductions [Long Version — Interview Neighbor ice breaker game]</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="simona" changedate="20190218T140919Z" creationid="simona" creationdate="20190218T140919Z">
-        <seg>Introduzioni [Versione lunga - Intervista il vicino - Icebreaker game] #Introduzioni [Versione lunga - Intervista il vicino - Icebreaker game]</seg>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190303T155550Z" creationid="simona" creationdate="20190218T140919Z">
+        <seg>Introduzioni [Versione lunga - Intervista il vicino - Gioco per rompere il ghiaccio] #Introduzioni [Versione lunga - Intervista il vicino - Gioco per rompere il ghiaccio]</seg>
       </tuv>
     </tu>
     <tu>
