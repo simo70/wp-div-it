@@ -63,6 +63,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A disproportionately large number of the speakers at WordPress meetups and WordCamps (and tech events in general) are white men.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190303T155833Z" creationid="simona" creationdate="20190303T155833Z">
+        <seg>Un numero sproporzionato di relatori in incontri WordPress e WordCamp (e eventi tecnologici in generale) sono uomini bianchi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A question for you: Why do you want to speak?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="simona" changedate="20190220T194559Z" creationid="simona" creationdate="20190220T194559Z">
@@ -594,6 +602,14 @@ Presentare l'argomento
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>That means that the speakers do not represent everyone sitting in the audience.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190303T155929Z" creationid="simona" creationdate="20190303T155929Z">
+        <seg>Ciò significa che gli oratori non rappresentano le persone sedute tra il pubblico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The agenda that we are going to cover today is:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="simona" changedate="20190220T194039Z" creationid="simona" creationdate="20190220T194039Z">
@@ -852,6 +868,14 @@ What is your speaking experience, if any?</seg>
 Il tuo pronome (lei, lui, loro)
 La propria esperienza con WordPress
 Hai esperienza di public speaking?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[ Why are we holding a workshop for &lt;specific group&gt; #[ Why are we holding a workshop for &lt;specific group&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="simona" changedate="20190303T155801Z" creationid="simona" creationdate="20190303T155801Z">
+        <seg>[ Perché stiamo fecendo questo workshop per &lt;gruppo specifico&gt; #[ Perché stiamo fecendo questo workshop per &lt;gruppo specifico&gt;</seg>
       </tuv>
     </tu>
     <tu>
